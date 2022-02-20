@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SohamWani
-- 👀 I’m interested in coding, blogging
-- 🌱 I’m currently studying 12th grade
+- 🤔 I’m a passionate blogger and a programming enthusiast
+- 📚 I’m currently studying 12th grade
+- 🇮🇳 I'm from India
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamWani&count_private=true)
+![Soham Wani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamWani&count_private=false&show_icons=true&theme=github_dark)
