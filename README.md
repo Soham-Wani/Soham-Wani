@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham-Wani (Obviously "SohamWani" was already taken!)
+- 👋 Hi, I’m @Soham-Wani
 - 🤔 I’m a passionate blogger and a programming enthusiast
 - 📚 I’m currently studying 12th grade
 - 🇮🇳 I'm from India
