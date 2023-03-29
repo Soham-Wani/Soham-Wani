@@ -1,13 +1,12 @@
 # 👋 Hi, I’m [Soham Wani](https://github.com/Soham-Wani)
 <p align="center"><br/>
  <a href="mailto:sohamwani1812@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.jameswork9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-sohamwani1812%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
-- 🌐 Check out my [blog](https://usualqueries.blogspot.com "Usual Queries")
-- 🎓 **Student** at [GSV](https://www.nrti.edu.in/ "Gati Shakti Vishwavidyalaya")
-- 🗺️ Located in **Canberra, Australia**
-- 📝 [Blog](https://dev.to/timwjames)
+- 🌐 Check out my [blog(https://usualqueries.blogspot.com "Usual Queries")]
+- 🎓 **Student** at [GSV](https://www.nrti.edu.in/ "Gati Shakti Vishwavidyalaya")]
+- 🗺️ Located in **Republic of Dombivli, India**
 
 Passionate about software development, writing code, and making things happen.
 <br>
