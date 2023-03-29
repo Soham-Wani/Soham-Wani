@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Email-sohamwani1812%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
-- 🌐 Check out my [blog(https://usualqueries.blogspot.com "Usual Queries")]
-- 🎓 **Student** at [GSV](https://www.nrti.edu.in/ "Gati Shakti Vishwavidyalaya")]
+- 🌐 Check out my [blog](https://usualqueries.blogspot.com)
+- 🎓 **Student** at [GSV](https://www.nrti.edu.in/)
 - 🗺️ Located in **Republic of Dombivli, India**
 
 Passionate about software development, writing code, and making things happen.
