@@ -13,4 +13,9 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
  </p>
+ <h2 align="center">Platforms and Tools</h2>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+ </p>
 </p>
