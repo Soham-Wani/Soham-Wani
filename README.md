@@ -17,4 +17,7 @@
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />
  </p>
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soham-Wani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="My github stats" /> 
+ </p>
 </p>
